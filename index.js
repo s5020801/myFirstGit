@@ -1,4 +1,4 @@
-console.log("Hello World!");
+console.log("Merge Fixed.");
 function addNums(numA, numB){
     
     return numA + numB;
