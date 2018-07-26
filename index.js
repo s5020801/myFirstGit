@@ -1,4 +1,4 @@
-console.log("Hello World!");
+console.log("Merge Conflict");
 function addNums(numA, numB){
     
     return numA + numB;
