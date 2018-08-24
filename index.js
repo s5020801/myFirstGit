@@ -1,4 +1,4 @@
-console.log("Merge Fixed.");
+console.log("New push from clone.");
 function addNums(numA, numB){
     
     return numA + numB;
